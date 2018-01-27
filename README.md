@@ -1,8 +1,4 @@
-# PocketMine-MP Legacy repository
-This repository is no longer maintained and is kept for historical purposes only.
-Active development on PocketMine-MP can now be found [here](https://github.com/pmmp/pocketmine-mp).
-
-<!--
+# PocketMine-MP 
 # ![PocketMine-MP](http://cdn.pocketmine.net/img/PocketMine-MP-h.png)
 [![Build Status](https://travis-ci.org/PocketMine/PocketMine-MP.svg?branch=master)](https://travis-ci.org/PocketMine/PocketMine-MP)
 
